@@ -40,8 +40,9 @@ Two players place their ships on their own 10x10 board, floating on a rendered o
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,threejs" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
   <img src="https://img.shields.io/badge/glTF-88CC00?style=for-the-badge" />
 </p>
